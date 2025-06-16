@@ -1,3 +1,3 @@
-##  📸  .NET MAUI Calculator App
+## 📸 .NET MAUI Calculator App
 
 ![Calculator App](calculator-app.png)

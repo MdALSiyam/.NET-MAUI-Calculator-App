@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\MAUI\\Calculator-Application-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD97AEC-EA85-42CE-AD54-8770C556A38E}|Calculator\\Calculator.csproj|e:\\github\\maui\\calculator-application-master\\calculator\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7AD97AEC-EA85-42CE-AD54-8770C556A38E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD97AEC-EA85-42CE-AD54-8770C556A38E}|Calculator\\Calculator.csproj|e:\\github\\maui\\calculator-application-master\\calculator\\pages\\calculators.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7AD97AEC-EA85-42CE-AD54-8770C556A38E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\pages\\calculators.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD97AEC-EA85-42CE-AD54-8770C556A38E}|Calculator\\Calculator.csproj|e:\\github\\maui\\calculator-application-master\\calculator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7AD97AEC-EA85-42CE-AD54-8770C556A38E}|Calculator\\Calculator.csproj|solutionrelative:calculator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculators.xaml",
+              "DocumentMoniker": "E:\\GitHub\\MAUI\\Calculator-Application-master\\Calculator\\Pages\\Calculators.xaml",
+              "RelativeDocumentMoniker": "Calculator\\Pages\\Calculators.xaml",
+              "ToolTip": "E:\\GitHub\\MAUI\\Calculator-Application-master\\Calculator\\Pages\\Calculators.xaml",
+              "RelativeToolTip": "Calculator\\Pages\\Calculators.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T14:47:58.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "E:\\GitHub\\MAUI\\Calculator-Application-master\\Calculator\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Calculator\\AppShell.xaml",
+              "ToolTip": "E:\\GitHub\\MAUI\\Calculator-Application-master\\Calculator\\AppShell.xaml",
+              "RelativeToolTip": "Calculator\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T14:47:49.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\GitHub\\MAUI\\Calculator-Application-master\\Calculator\\App.xaml",
+              "RelativeDocumentMoniker": "Calculator\\App.xaml",
+              "ToolTip": "E:\\GitHub\\MAUI\\Calculator-Application-master\\Calculator\\App.xaml",
+              "RelativeToolTip": "Calculator\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T14:47:44.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
